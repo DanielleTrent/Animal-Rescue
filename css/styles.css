@@ -1,0 +1,41 @@
+.baby1 {
+  background-color: chartreuse;
+  font-style: oblique;
+  margin-left:1%;
+  margin-right:1%;
+  width:30%;
+  height: 100px;
+  float:left;
+  text-align: center;
+  
+}
+
+.baby2 {
+  background-color: chocolate;
+  font-style: italic;
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 30%;
+  height: 100px;
+  float:left;
+  text-align: center;
+  
+  
+}
+
+.baby3 {
+  background-color: cyan;
+  font-style: inherit;
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 30%;
+  height: 100px;
+  float:left;
+  text-align: center;
+  
+}
+
+.baby-names{
+  text-size: 100px;
+} 
+
